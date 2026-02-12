@@ -32,7 +32,23 @@ function App() {
         'Favourite Band',
         'Favourite Solo Artist',
         'Best EP',
-        'Most Depressing'
+        'Most Depressing',
+        'Very Niche Album', 
+        'Album That Should Be More Known', 
+        'Something I Can't Get Into',
+        'Gulity Pleasure', 
+        'Album That Got Me Into a Genre',
+        'Best Produced Album',
+        'Bad Album Cover',
+        'Trippy Album', 
+        'Danceable Album', 
+        'Late Night/ Driving Album', 
+        'Vibes', 
+        'Best Lyrics', 
+        'Overrated Artist', 
+        'Underrated Artist',
+        'Least Favortie Album', 
+        'Least Favorite Artist',
     ]
     const wrapperRef = useRef(null);
 
