@@ -35,7 +35,7 @@ function App() {
         'Most Depressing',
         'Very Niche Album', 
         'Album That Should Be More Known', 
-        'Something I Can't Get Into',
+        'Something I Cant Get Into',
         'Gulity Pleasure', 
         'Album That Got Me Into a Genre',
         'Best Produced Album',
