@@ -51,7 +51,7 @@ function App() {
         'Least Favorite Artist',
     ]
     const wrapperRef = useRef(null);
-    const [isSavingImage, setIsSavingImage] = useState(false);
+    const [isSavingImage, setIsSavingImage] = useState(true);
 
     return (
         <Container pt={5} maxW={'7xl'}>
