@@ -48,7 +48,7 @@ function App() {
         'Overrated Artist', 
         'Underrated Artist',
         'Least Favortie Album', 
-        'Least Favorite Artist',
+        'Least Favorite Artist'
     ]
     const wrapperRef = useRef(null);
     const [isSavingImage, setIsSavingImage] = useState(true);
